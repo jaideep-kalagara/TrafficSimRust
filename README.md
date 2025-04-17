@@ -1,7 +1,7 @@
 # Small Simulator with configuration
 
 ### sample config
-  `[simulation]
+  ```[simulation]
   amount of cars in the simulation
   cars = 2_000_000
   the percent of rule breaking cars (0 - 100)
@@ -15,4 +15,4 @@
   top_speed = 20
 
   debug
-  debug = false`
+  debug = false```
