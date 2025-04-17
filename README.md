@@ -15,6 +15,6 @@ base_point = false
 # will be rounded up to nearest whole after conversion
 top_speed = 20
 
-debug
+# debug
 debug = false
 ```
